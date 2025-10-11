@@ -1,1 +1,2 @@
-Lab_1 - test
+-- 1. Utwórz nową bazę danych nazywając ją firma.
+CREATE DATABASE firma;
